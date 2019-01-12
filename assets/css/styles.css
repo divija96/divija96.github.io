@@ -522,6 +522,11 @@ a.dotted-link:hover {
   font-weight: 500;
 }
 
+.education .item .university .grade {
+  color: #b0b7bf;
+  font-weight: 1000;
+}
+
 /* Language Section */
 .languages .item {
   margin-bottom: 15px;
